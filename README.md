@@ -1,6 +1,6 @@
 ## Olá! Eu sou José Ingleson
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho com full-stack
 - 🌱 Estudando back-end
 - 💬 Contate-me: 1joseingleson1@gmail.com
 - 😄 Pronome: Ele/Dele
