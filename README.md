@@ -1,8 +1,8 @@
 ## Olá! Eu sou José Ingleson
 
 - 🔭 Hoje trabalho com full-stack
-- 🌱 Estudando back-end
-- 💬 Contate-me: 1joseingleson1@gmail.com
+- 🌱 Estudando React
+- 💬 Contate-me: jovemtksstranger@gmail.com
 - 😄 Pronome: Ele/Dele
 
 <div align="center">
