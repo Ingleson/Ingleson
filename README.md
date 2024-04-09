@@ -1,7 +1,7 @@
 ## Olá! Eu sou José Ingleson
 
-- 🔭 Hoje trabalho com full-stack
-- 🌱 Estudando Front-End
+- 🔭 Hoje trabalho com Front-End (no code/ low code)
+- 🌱 Estudando automatizações
 - 💬 Contate-me: jovemtksstranger@gmail.com
 - 😄 Pronome: Ele/Dele
 
